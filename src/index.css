@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.student-list {
+  padding: 2em;
+  background: pink;
+}
+
+.list-item {
+  padding: 1em;
+  margin: 1em 0;
+  background: yellow;
+}
